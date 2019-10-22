@@ -1,1 +1,1 @@
-This repository contains example code for controlling a RoboClaw motor controller with an ESP32 microcontroller. The Application Note that accompanies this repository can be [found here]().
+This repository contains example code for controlling a RoboClaw motor controller with an ESP32 microcontroller. The Application Note that accompanies this repository can be [found here](https://resources.basicmicro.com/esp32-roboclaw-motor-control/).
